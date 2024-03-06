@@ -1,0 +1,46 @@
+<html>
+<head>
+    <title>Home</title>
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="webstyle.css">
+    <link rel="icon" type="image/x-icon" href="./logo.png">
+    <marquee bgcolor='aqua'><b>Use Code MK69 to get maximum possible discount on your Plus/Iconic Subscriptions</b></marquee>
+    <div class="topnav">
+        <a class="active" href="./home.html">Home</a>
+        <a href="./chat.html">Chat</a>
+        <a href="./ncert_textbooks.html">NCERT Textbooks</a>
+        <a href="./online_quizes.html">Online Quizes</a>
+        <a href="./contact_us.html">Contact Us</a>
+    </div>
+    <p id="style1"><img src="logo.png" height="100" width="122" id="img1"></p>
+    <p id="style2"><b>Educational Society of Friends</b></p>
+    <p id="style3">Where Passion Meets Education <br> Building a society of lifelong learners!</p>
+
+</head>
+
+<body>
+    <p id='style4'>ABOUT US</p>
+    <p id='style5'>Welcome to Educational Society of Friends. The “Educational Society of Friends” is an association of Friends for educational purposes and for general conversion. We have made this association of friends to cooperate and help others in education. </p>
+    <p id='style6'>Join our Whatsapp Group!</p>
+    <p id='style5'>We have opened a Whatsapp group for faster communication and faster study materials share. To join our WhatsApp group you have to fill out a form.Tap the option FILL FORM below to fill up the application. If you face any difficulties in joining kindly <a href="./chat.html">click here</a> to directly chat with us or let us know at <a href="mailto:sundarshib2@gmail.com">sundarshib2@gmail.com</a></p>
+  <p align='center'><a href="https://form.jotform.com/211463844501046"><button id='button1'>Fill From</button></a></p>
+  
+  <p id='style4'>ONLINE QUIZES</p>
+  <p id='style6'>Attempt Online Quizzes!</p>
+  <p id='style5' align='center'><a href='./chat.html'>Click here</a> to go to the page where you can register for online Quizzes. Or click on the option ‘REGISTER NOW’ to go the the page where you can register!</p>
+  <p align='center'><a href="./online_quizes.html"><button id='button1'>Register</button></a></p>
+  <p id='style4'>DOWNLOAD NCERT TEXTBOOKS</p>
+  <p id='style6'>Download latest NCERT Textbooks by clicking on DOWNLOAD TEXTBOOK below.</p>
+  <p align='center'><a href="./ncert_textbooks.html"><button id='button1'>DOWNLOAD TEXTBOOK</button></a></p>
+  
+
+  
+
+</body>
+
+  <footer id='footer'>
+          <p>COPYRIGHT © 2021-2023 EDUCATIONAL SOCIETY OF FRIENDS - ALL RIGHTS RESERVED.</p>
+    <p>DESIGNED BY SHIBSUNDAR SARKAR.</p>
+  </footer>
+  
+</html>
